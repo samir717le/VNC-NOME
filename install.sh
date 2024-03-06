@@ -24,4 +24,5 @@ cd noVNC
 ./utils/launch.sh --vnc localhost:5901
 
 # Move vncstart.sh to /usr/local/bin (if needed)
+wget https://raw.githubusercontent.com/samir717le/VNC-NOME/main/vncstart.sh
 mv vncstart.sh /usr/local/bin
